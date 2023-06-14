@@ -1,6 +1,6 @@
-# OOP Explorations with Python
+# oops.py
 
-Welcome to the "OOP-Explorations-with-Python" repository! 🚀🐍
+Welcome to the "oops.py" repository! 🚀🐍
 
 This repository is dedicated to exploring Object-Oriented Programming (OOP) concepts using Python. It provides code examples, tutorials, and discussions to help you understand and apply OOP principles in your Python projects.
 
